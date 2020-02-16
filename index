@@ -1,0 +1,6 @@
+<script type="text/javascript" src="LOCALFILE.json"></script>
+
+<script>
+  var tData = JSON.parse(LOCALFILE);
+  document.write(tData);
+</script>
