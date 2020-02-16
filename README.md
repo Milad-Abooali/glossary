@@ -1,0 +1,2 @@
+# glossary
+Full Stack Glossary
