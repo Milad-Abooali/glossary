@@ -27,7 +27,7 @@
       ],
       "date":"2020-02-16 12:53:37 AM"
    },
-   "developer":{
+   "UI":{
       "title":"UI",
       "synonym":[
          "user interface"
@@ -641,6 +641,6 @@
         "https://www.sqlitetutorial.net/what-is-sqlite/"
              ],
       "date":"2020-02-22 12:53:37 AM"
-   },
+   }
    
     }
