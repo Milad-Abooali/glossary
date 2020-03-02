@@ -27,19 +27,6 @@
       ],
       "date":"2020-02-16 12:53:37 AM"
    },
-   "developer":{
-      "title":"UI",
-      "synonym":[
-         "user interface"
-      ],
-      "en":"The user interface, in the industrial design field of human-computer interaction, is the space where interactions between humans and machines occur.",
-      "fa":"فضایی است که تعامل بین انسان و ماشین در آن رخ می دهد. واسط کاربری، بخش دیدنی و قابل لمس یک ابزار است که کاربر مستقیما با آن سر و کار دارد. این اصطلاح را میانجی کاربری و رابط کاربری هم ترجمه کرده اند. هر رابط به دو ساز و کار اساسی مجهز است: درون داد کاربر از طریق رابط کاربر ، به ماشین فرمان می دهد برون داد ماشین از دریچه رابط کاربر به دستور های کارر، پاسخ و عکس العمل نشان می دهد. در این حالت اصطلاحا می گویند که کاربر و رابط کاربر، بایکدیگر تعامل دارند.",
-      "link":[
-         "https:\/\/www.techopedia.com\/definition\/17095\/developer",
-         "https:\/\/en.wikipedia.org\/wiki\/Developer"
-      ],
-      "date":"2020-02-16 12:53:37 AM"
-   },
      "client":{
       "title":"Client",
       "synonym":[
@@ -98,21 +85,6 @@
       "link":[
 				"https://en.wikipedia.org/wiki/HTML",
 				"https://www.computerhope.com/jargon/h/html.htm"
-             ],
-      "date":"2020-02-20 12:53:37 AM"
-   },
-   "browser":{
-      "title":"Browser",
-      "synonym":[
-				 "software",
-				 "application",
-				 "web"
-			    ],
-      "en":"A web browser (commonly referred to as a browser) is a software application for accessing information on the World Wide Web.",
-      "fa":"مرورگر ( بروزر ) یک نرم افزار برای دسترسی به اطلاعات در شبکه جهانی وب است",
-      "link":[
-				"https://en.wikipedia.org/wiki/Web_browser",
-				"https://www.mozilla.org/en-US/technology/what-is-a-browser/"
              ],
       "date":"2020-02-20 12:53:37 AM"
    },
@@ -641,6 +613,160 @@
         "https://www.sqlitetutorial.net/what-is-sqlite/"
              ],
       "date":"2020-02-22 12:53:37 AM"
+   },"applet":{
+      "title":"Applet",
+      "synonym":[
+         "ActiveX",
+         "client side",
+         "Java program"
+          ],
+      "en":"A small Java application that is downloaded by an ActiveX or Java-enabled web browser. Once it has been downloaded, the applet will run on the user's computer. Common applets include financial calculators and web drawing programs.",
+      "fa":"یک برنامه جاوا کوچک است که توسط یک مرورگر وب ActiveX یا جاوا فعال است. پس از بارگیری ، اپلت روی رایانه کاربر اجرا می شود. اپلت های معمولی شامل ماشین حساب های مالی و برنامه های طراحی وب هستند.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Applet",
+        "https://www.javatpoint.com/java-applet"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
    },
-   
-    }
+   "application":{
+      "title":"Application",
+      "synonym":[
+         "software",
+         "program",
+         "process"
+          ],
+      "en":"Computer software that performs a task or set of tasks, such as word processing or drawing. Applications are also referred to as programs.",
+      "fa":"نرم افزار رایانه ای که وظیفه یا مجموعه ای از کارها مانند پردازش کلمه یا طراحی را انجام می دهد. به برنامه ها نیز به عنوان برنامه گفته می شود.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Application_software",
+        "https://searchsoftwarequality.techtarget.com/definition/application"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "ascii":{
+      "title":"ASCII",
+      "synonym":[
+         "American Standard Code for Information Interexchange"
+          ],
+      "en":"American Standard Code for Information Interchange, an encoding system for converting keyboard characters and instructions into the binary number code that the computer understands.",
+      "fa":"کد استاندارد آمریكایی برای تبادل اطلاعات ، یك سیستم رمزگذار برای تبدیل كاراكترهای كیبورد و دستورالعمل ها به كد شماره دودویی است كه رایانه آن را می فهمد.",
+      "link":[
+        "https://en.wikipedia.org/wiki/ASCII",
+        "https://www.computerhope.com/jargon/a/ascii.htm"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "bandwidth":{
+      "title":"Bandwidth",
+      "synonym":[
+         "network",
+         "capacity of a network"
+          ],
+      "en":"The capacity of a networked connection. Bandwidth determines how much data can be sent along the networked wires. Bandwidth is particularly important for Internet connections, since greater bandwidth also means faster downloads.",
+      "fa":"ظرفیت اتصال به شبکه. پهنای باند تعیین می کند چه مقدار داده می تواند در امتداد سیمهای شبکه ارسال شود. پهنای باند برای اتصالات اینترنتی از اهمیت ویژه ای برخوردار است ، زیرا پهنای باند بیشتر نیز به معنی بارگیری سریع تر است.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Bandwidth_(computing)",
+        "https://searchnetworking.techtarget.com/definition/bandwidth"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "binary code":{
+      "title":"Binary code",
+      "synonym":[
+         "language a computer",
+         "0 and 1"
+          ],
+      "en":"The most basic language a computer understands, it is composed of a series of 0s and 1s. The computer interprets the code to form numbers, letters, punctuation marks, and symbols.",
+      "fa":"ابتدایی ترین زبان که یک کامپیوتر آن را می فهمد ، از یک سری 0 و 1 تشکیل شده است. کامپیوتر کد را برای شکل دادن اعداد ، حروف ، علائم نگارشی و نمادها تفسیر می کند.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Binary_code",
+        "https://www.computerhope.com/jargon/b/binary.htm"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "bit":{
+      "title":"Bit",
+      "synonym":[
+         "Unit of data",
+         "binary digit"
+          ],
+      "en":"The smallest piece of computer information, either the number 0 or 1. In short they are called binary digits.",
+      "fa":"کوچکترین قطعه اطلاعات رایانه ، یا عدد 0 یا 1. به طور خلاصه آنها به رقم های باینری گفته می شوند.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Bit",
+        "https://whatis.techtarget.com/definition/bit-binary-digit"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "boot":{
+      "title":"Boot",
+      "synonym":[
+         "Cold boot",
+         "Warm boot",
+         "start up a computer"
+          ],
+      "en":"To start up a computer. Cold boot means restarting computer after the power is turned off. Warm boot means restarting computer without turning off the power.",
+      "fa":"برای راه اندازی یک کامپیوتر. بوت سرد به معنی راه اندازی مجدد کامپیوتر پس از خاموش شدن برق است. بوت گرم به معنی راه اندازی مجدد کامپیوتر بدون خاموش کردن برق است",
+      "link":[
+        "https://en.wikipedia.org/wiki/Booting",
+        "https://www.lifewire.com/what-does-booting-mean-2625799"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "browser":{
+      "title":"Browser",
+      "synonym":[
+         "Software Internet",
+         "web browser"
+          ],
+      "en":"Software used to navigate the Internet. Google Chrome, Firefox, Netscape Navigator and Microsoft Internet Explorer are today's most popular browsers for accessing the World Wide Web.",
+      "fa":"نرم افزاری که برای حرکت در اینترنت استفاده می شود. Google Chrome ، Firefox ، Netscape Navigator و Microsoft Internet Explorer محبوب ترین مرورگرهای امروز برای دسترسی به شبکه جهانی وب هستند.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Web_browser",
+        "https://searchwindevelopment.techtarget.com/definition/browser"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "bug":{
+      "title":"Bug",
+      "synonym":[
+         "error",
+         "malfunction"
+          ],
+      "en":"A malfunction due to an error in the program or a defect in the equipment.",
+      "fa":"نقص در اثر خطا در برنامه یا نقص در تجهیزات.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Software_bug",
+        "https://searchsoftwarequality.techtarget.com/definition/bug"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "byte":{
+      "title":"Byte",
+      "synonym":[
+         "unit of digital information",
+         "eight binary digits",
+         "eight bits"
+          ],
+      "en":"Most computers use combinations of eight bits, called bytes, to represent one character of data or instructions. For example, the word cat has three characters, and it would be represented by three bytes.",
+      "fa":"بیشتر رایانه ها از ترکیب هشت بیت به نام بایت استفاده می کنند تا یک شخصیت داده یا دستورالعمل را نشان دهند. به عنوان مثال ، کلمه گربه سه شخصیت دارد و آن را با سه بایت نشان می دهد.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Byte",
+        "https://searchstorage.techtarget.com/definition/byte"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "cache":{
+      "title":"Cache",
+      "synonym":[
+         "small data-memory"
+          ],
+      "en":"A small data-memory storage area that a computer can use to instantly re-access data instead of re-reading the data from the original source, such as a hard drive. Browsers use a cache to store web pages so that the user may view them again without reconnecting to the Web.",
+      "fa":"یک منطقه ذخیره سازی حافظه کوچک است که یک کامپیوتر می تواند از آن برای دسترسی مجدد به داده ها به جای خواندن مجدد اطلاعات از منبع اصلی ، مانند یک دیسک سخت ، استفاده کند. مرورگرها از ",
+      "link":[
+        "https://en.wikipedia.org/wiki/Cache_(computing)",
+        "https://searchstorage.techtarget.com/definition/cache"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   }
+   }
