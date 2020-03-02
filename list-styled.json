@@ -27,6 +27,19 @@
       ],
       "date":"2020-02-16 12:53:37 AM"
    },
+   "UI":{
+      "title":"UI",
+      "synonym":[
+         "user interface"
+      ],
+      "en":"The user interface, in the industrial design field of human-computer interaction, is the space where interactions between humans and machines occur.",
+      "fa":"فضایی است که تعامل بین انسان و ماشین در آن رخ می دهد. واسط کاربری، بخش دیدنی و قابل لمس یک ابزار است که کاربر مستقیما با آن سر و کار دارد. این اصطلاح را میانجی کاربری و رابط کاربری هم ترجمه کرده اند. هر رابط به دو ساز و کار اساسی مجهز است: درون داد کاربر از طریق رابط کاربر ، به ماشین فرمان می دهد برون داد ماشین از دریچه رابط کاربر به دستور های کارر، پاسخ و عکس العمل نشان می دهد. در این حالت اصطلاحا می گویند که کاربر و رابط کاربر، بایکدیگر تعامل دارند.",
+      "link":[
+         "https:\/\/www.techopedia.com\/definition\/17095\/developer",
+         "https:\/\/en.wikipedia.org\/wiki\/Developer"
+      ],
+      "date":"2020-02-16 12:53:37 AM"
+   },
      "client":{
       "title":"Client",
       "synonym":[
