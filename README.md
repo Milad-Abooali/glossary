@@ -1,5 +1,7 @@
 Full Stack Glossary
 
+54 Word Added.
+
 # For Pull Request
 
 Please only edit list.styled.json, and add your new phrase in this syntax:
