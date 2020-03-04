@@ -781,5 +781,172 @@
         "https://searchstorage.techtarget.com/definition/cache"
              ],
       "date":"2020-02-22 12:53:37 AM"
+   },
+	   "cad-cam":{
+      "title":"CAD-CAM",
+      "synonym":[
+         "Computer Aided Drawing",
+         "Computer Aided Manufacturing"
+          ],
+      "en":"Computer Aided Drawing - Computer Aided Manufacturing. The instructions stored in a computer that will be translated to very precise operating instructions to a robot, such as for assembling cars or laser-cutting signage.",
+      "fa":"طراحی به کمک رایانه - ساخت رایانه به کمک کامپیوتر. دستورالعمل های ذخیره شده در رایانه که برای دستورالعمل های دقیق دقیق به یک روبات ترجمه می شوند ، مانند نصب اتومبیل یا علائم برش لیزری.",
+      "link":[
+        "https://en.wikipedia.org/wiki/CAD/CAM_dentistry",
+        "https://www.autodesk.com/solutions/cad-cam"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "cd-rom":{
+      "title":"CD-ROM",
+      "synonym":[
+         "Compact Disc Read-Only",
+         "dvd-rom"
+          ],
+      "en":"Compact Disc Read-Only Memory, an optically read disc designed to hold information such as music, reference materials, or computer software. A single CD-ROM can hold around 640 megabytes of data, enough for several encyclopaedias. Most software programs are now delivered on CD-ROMs.",
+      "fa":"حافظه فقط خواندنی دیسک ، یک دیسک نوری خوانده شده برای نگه داشتن اطلاعاتی مانند موسیقی ، مواد مرجع یا نرم افزار رایانه است. یک CD-ROM تنها می تواند در حدود 640 مگابایت داده نگه داشته باشد ، که برای چندین دائره المعارف کافی است. اکنون بیشتر برنامه های نرم افزاری بر روی CD-ROM ارائه می شود.",
+      "link":[
+        "https://en.wikipedia.org/wiki/CD-ROM",
+        "https://techterms.com/definition/cdrom"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "cgi":{
+      "title":"CGI",
+      "synonym":[
+         "Common Gateway Interface"
+          ],
+      "en":"Common Gateway Interface, a programming standard that allows visitors to fill out form fields on a Web page and have that information interact with a database, possibly coming back to the user as another Web page. CGI may also refer to Computer-Generated Imaging, the process in which sophisticated computer programs create still and animated graphics, such as special effects for movies.",
+      "fa":"یک استاندارد برنامه نویسی است که به بازدید کنندگان امکان می دهد فیلدهای فرم را در یک صفحه وب پر کنند و آن اطلاعات را با یک بانک اطلاعاتی در تعامل داشته باشند ، احتمالاً به عنوان یک صفحه وب دیگر به کاربر باز می گردد. CGI همچنین ممکن است به تصویربرداری مبتنی بر رایانه ، فرایندی که در آن برنامه های پیچیده رایانه گرافیکی ثابت و متحرک ایجاد می کنند ، مانند جلوه های ویژه فیلم ها ، اشاره کند.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Common_Gateway_Interface",
+        "https://www.geeksforgeeks.org/common-gateway-interface-cgi/"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "chat":{
+      "title":"Chat",
+      "synonym":[
+         "converse",
+         "talk",
+         "speak "
+          ],
+      "en":"Typing text into a message box on a screen to engage in dialogue with one or more people via the Internet or other network.",
+      "fa":"گفتگو با یک یا چند نفر از طریق اینترنت یا شبکه دیگر",
+      "link":[
+        "https://en.wikipedia.org/wiki/Online_chat",
+        "https://www.computerhope.com/jargon/c/chat.htm"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "chip":{
+      "title":"CHIP",
+      "synonym":[
+         "store bits"
+          ],
+      "en":"A tiny wafer of silicon containing miniature electric circuits that can store millions of bits of information.",
+      "fa":"یک ویفر کوچک از سیلیکون که دارای مدارهای الکتریکی مینیاتوری است که می تواند میلیون ها بیت از اطلاعات را ذخیره کند.",
+      "link":[
+        "https://en.wikipedia.org/wiki/CHIP_(computer)",
+        "https://www.techopedia.com/definition/2169/chip"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "cpu":{
+      "title":"CPU",
+      "synonym":[
+         "Central Processing Unit",
+          ],
+      "en":"Central Processing Unit. The brain of the computer.",
+      "fa":"واحد پردازش مرکزی. مغز کامپیوتر.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Central_processing_unit",
+        "https://www.digitaltrends.com/computing/what-is-a-cpu/"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "cracker":{
+      "title":"Cracker",
+      "synonym":[
+         "hacker"
+          ],
+      "en":"A person who breaks in to a computer through a network, without authorization and with mischievous or destructive intent.",
+      "fa":"شخصی که از طریق یک شبکه ، بدون مجوز و با قصد ناسازگار یا مخرب ، وارد رایانه می شود.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Hacker",
+        "https://searchsecurity.techtarget.com/definition/cracker"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "cursor":{
+      "title":"Cursor",
+      "synonym":[
+         "moving position-indicator",
+         "indicator"
+          ],
+      "en":"A moving position-indicator displayed on a computer monitor that shows a computer operator where the next action or operation will take place.",
+      "fa":"یک نشانگر موقعیت در حال حرکت که بر روی مانیتور رایانه نمایش داده می شود و یک عملگر رایانه را نشان می دهد که در آن اقدام یا عملکرد بعدی انجام می شود.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Cursor_(user_interface)",
+        "https://whatis.techtarget.com/definition/cursor"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "cyberspace":{
+      "title":"Cyberspace",
+      "synonym":[
+         "internet",
+         "nterconnected digital technology"
+          ],
+      "en":"Slang for internet ie. An international conglomeration of interconnected computer networks. Begun in the late 1960s, it was developed in the 1970s to allow government and university researchers to share information. The Internet is not controlled by any single group or organization. Its original focus was research and communications, but it continues to expand, offering a wide array of resources for business and home users.",
+      "fa":"زبان عامیانه یعنی اینترنت. یک کنگلومراسیون بین المللی شبکه های رایانه ای بهم پیوسته. از اواخر دهه 1960 ، در دهه 1970 توسعه یافت تا محققان دولتی و دانشگاه بتوانند اطلاعات را به اشتراک بگذارند. اینترنت توسط هیچ گروه یا سازمانی کنترل نمی شود. تمرکز اصلی آن تحقیق و ارتباطات بود ، اما همچنان گسترش می یابد و منابع گسترده ای را برای مشاغل و کاربران خانگی فراهم می کند.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Cyberspace",
+        "https://www.techopedia.com/definition/2493/cyberspace"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "debug":{
+      "title":"Debug",
+      "synonym":[
+         "bug",
+         "malfunctions",
+         "defect"
+          ],
+      "en":"Slang. To find and correct equipment defects or program malfunctions.",
+      "fa":"زبان عامیانه برای پیدا کردن و اصلاح نقص تجهیزات یا نقص برنامه",
+      "link":[
+        "https://en.wikipedia.org/wiki/Debugging",
+        "https://searchsoftwarequality.techtarget.com/definition/debugging"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "desktop":{
+      "title":"Desktop",
+      "synonym":[
+         "background",
+         "screen"
+          ],
+      "en":"The main directory of the user interface. Desktops usually contain icons that represent links to the hard drive, a network (if there is one), and a trash or recycling can for files to be deleted. It can also display icons of frequently used applications, as requested by the user.",
+      "fa":"دایرکتوری اصلی رابط کاربری. دسک تاپ ها معمولاً حاوی آیکون هایی هستند که نمایانگر پیوندها به هارد دیسک ، یک شبکه (در صورت وجود) هستند و یک سطل زباله یا بازیافت برای حذف پرونده ها است. همچنین می تواند آیکون برنامه های متداول را در صورت درخواست کاربر نمایش دهد.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Desktop_computer",
+        "https://www.computerhope.com/jargon/d/desktop.htm"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "directory":{
+      "title":"Directory",
+      "synonym":[
+         "repository",
+         "storage",
+         "reservoir"
+          ],
+      "en":"A repository where all files are kept on computer.",
+      "fa":"مخزنی که تمام پرونده ها در رایانه نگهداری می شوند.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Directory_(computing)",
+        "https://www.computerhope.com/jargon/d/director.htm"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
    }
-   }
+     }
