@@ -948,5 +948,144 @@
         "https://www.computerhope.com/jargon/d/director.htm"
              ],
       "date":"2020-02-22 12:53:37 AM"
+   },
+   "domain":{
+      "title":"Domain",
+      "synonym":[
+         "name",
+         "addresses"
+          ],
+      "en":"Represents an IP (Internet Protocol) address or set of IP addresses that comprise a domain. The domain name appears in URLs to identify web pages or in email addresses. For example, the email address for the First Lady is first.lady@whitehouse.gov, whitehouse.gov, being the domain name. Each domain name ends with a suffix that indicates what top level domain it belongs to. These are : .com for commercial, .gov for government, .org for organization, .edu for educational institution, .biz for business, .info for information, .tv for television, .ws for website. Domain suffixes may also indicate the country in which the domain is registered. No two parties can ever hold the same domain name.",
+      "fa":"یک آدرس IP (پروتکل اینترنت) یا مجموعه ای از آدرس های IP را که شامل یک دامنه است نشان می دهد. نام دامنه برای شناسایی صفحات وب یا آدرس های ایمیل در URL ها ظاهر می شود. به عنوان مثال ، آدرس ایمیل برای بانوی اول first.lady@whitehouse.gov ، whitehouse.gov ، نام دامنه است. هر نام دامنه با پسوند خاتمه می یابد که نشان می دهد دامنه سطح بالایی متعلق به آن است. اینها عبارتند از: .com برای تجارت ، .gov برای دولت ، .org برای سازمان ، .edu برای موسسه آموزشی ، .biz برای تجارت ، .info برای اطلاعات ، .tv برای تلویزیون ، .Ws برای وب سایت. پسوند دامنه همچنین ممکن است کشوری باشد که دامنه در آن ثبت شده باشد. هیچ دو طرف هرگز نمی توانند نام دامنه یکسانی داشته باشند.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Domain_name",
+        "https://www.website.com/beginnerguide/domainnames/8/1/What-is-a-domain-name?.ws"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "dos":{
+      "title":"DOS",
+      "synonym":[
+         "Disk Operating System",
+         "operating"
+          ],
+      "en":"Disk Operating System. An operating system designed for early IBM-compatible PCs.",
+      "fa":"سیستم عامل دیسک. سیستم عامل طراحی شده برای رایانه های شخصی سازگار با IBM.",
+      "link":[
+        "https://en.wikipedia.org/wiki/MS-DOS",
+        "https://searchsecurity.techtarget.com/definition/DOS"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "dsl":{
+      "title":"DSL",
+      "synonym":[
+         "Digital Subscriber Line",
+         "method of connect"
+          ],
+      "en":"Digital Subscriber Line, a method of connecting to the Internet via a phone line. A DSL connection uses copper telephone lines but is able to relay data at much higher speeds than modems and does not interfere with telephone use.",
+      "fa":"خط مشترک دیجیتال ، روشی برای اتصال به اینترنت از طریق خط تلفن است. اتصال DSL از خطوط تلفن مسی استفاده می کند اما قادر به انتقال اطلاعات با سرعت بسیار بالاتر از مودم ها است و در استفاده از تلفن تداخلی ندارد.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Digital_subscriber_line",
+        "https://www.attinternetservice.com/resources/what-is-dsl-internet/"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "e-book":{
+      "title":"E-book",
+      "synonym":[
+         "electronic book",
+         "book"
+          ],
+      "en":"An electronic (usually hand-held) reading device that allows a person to view digitally stored reading materials.",
+      "fa":"دستگاه خواندن الکترونیکی (معمولاً دستی) که به شخص اجازه می دهد مواد خواندن دیجیتالی ذخیره شده را مشاهده کند.",
+      "link":[
+        "https://en.wikipedia.org/wiki/E-book",
+        "https://learn.g2.com/what-is-an-ebook"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "email":{
+      "title":"Email",
+      "synonym":[
+         "Electronic mail",
+         "messages",
+         "letters"
+          ],
+      "en":"Electronic mail; messages, including memos or letters, sent electronically between networked computers that may be across the office or around the world.",
+      "fa":"پست الکترونیکی؛ پیام ها ، از جمله یادداشتها یا نامه ها ، بصورت الکترونیکی بین رایانه های شبکه ای ارسال می شود که ممکن است در سراسر دفتر یا در سراسر جهان باشند",
+      "link":[
+        "https://en.wikipedia.org/wiki/Email",
+        "https://www.computerhope.com/jargon/e/email.htm"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "emoticon":{
+      "title":"Emoticon",
+      "synonym":[
+         "Emoji",
+         "facial expression"
+          ],
+      "en":"A text-based expression of emotion created from ASCII characters that mimics a facial expression when viewed with your head tilted to the left.",
+      "fa":"یک عبارت احساسی مبتنی بر متن که از شخصیتهای ASCII ایجاد شده است و در صورت مشاهده با سر شما به سمت چپ ، چهره را تقلید می کند.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Emoticon",
+        "https://whatis.techtarget.com/definition/emoticon"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "encryption":{
+      "title":"Encryption",
+      "synonym":[
+         "data"
+          ],
+      "en":"The process of transmitting scrambled data so that only authorized recipients can unscramble it. For instance, encryption is used to scramble credit card information when purchases are made over the Internet.",
+      "fa":"فرآیند انتقال داده های تقسیم شده به گونه ای که فقط گیرندگان مجاز می توانند آنرا لغو نمایند. به عنوان مثال ، رمزنگاری برای تقابل اطلاعات کارت اعتباری هنگام خرید از طریق اینترنت استفاده می شود.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Encryption",
+        "https://searchsecurity.techtarget.com/definition/encryption"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "ethernet":{
+      "title":"Ethernet",
+      "synonym":[
+         "network"
+          ],
+      "en":"Ethernet is a family of computer networking technologies commonly used in local area networks, metropolitan area networks and wide area networks.",
+      "fa":"اترنت خانواده ای از فناوری های شبکه های رایانه ای است که معمولاً در شبکه های محلی ، شبکه های منطقه شهری و شبکه های گسترده استفاده می شود.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Ethernet",
+        "https://searchnetworking.techtarget.com/definition/Ethernet"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "file":{
+      "title":"File",
+      "synonym":[
+         "data",
+         "folder"
+          ],
+      "en":"A set of data that is stored in the computer.",
+      "fa":"مجموعه ای از داده ها که در رایانه ذخیره می شوند.",
+      "link":[
+        "https://en.wikipedia.org/wiki/Computer_file",
+        "https://www.computerhope.com/jargon/f/file.htm"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
+   },
+   "firewall":{
+      "title":"Firewall",
+      "synonym":[
+         "security",
+         "security programs"
+          ],
+      "en":"A set of security programs that protect a computer from outside interference or access via the Internet.",
+      "fa":"مجموعه ای از برنامه های امنیتی که از رایانه در برابر تداخل در خارج یا دسترسی از طریق اینترنت محافظت می کنند.",
+      "link":[
+        "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=36&ved=2ahUKEwilu-mAy5LoAhX3WRUIHWCzApYQmhMwI3oECBAQAg&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFirewall_(computing)&usg=AOvVaw0kqTmexBhoDPoZhrtykXj3",
+        "https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html"
+             ],
+      "date":"2020-02-22 12:53:37 AM"
    }
      }
