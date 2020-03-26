@@ -1,6 +1,6 @@
 Full Stack Glossary
 
-54 Word Added.
+76 Word Added.
 
 # For Pull Request
 
